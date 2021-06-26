@@ -1,0 +1,46 @@
+{"ok":true,
+ "result":[
+     {
+         "update_id":39142485,
+        "message":{
+            "message_id":1,
+            "from":{
+                "id":962062138,
+                "is_bot":false,
+                "first_name":"Flyme",
+                "username":"Flymeor",
+                "language_code":"ru"
+            },"chat":{
+                "id":962062138,
+                "first_name":"Flyme",
+                "username":"Flymeor",
+                "type":"private"
+            },
+            "date":1624710410,
+            "text":"/start",
+            "entities":[
+                {
+                    "offset":0,
+                    "length":6,
+                    "type":"bot_command"
+                }]}}]}
+
+------------------------------------------------------------
+{"ok":true,
+"result":{
+    "message_id":2,
+    "from":{
+        "id":1815758515,
+        "is_bot":true,
+        "first_name":"nAmme",
+        "username":"kaktotanm_bot"
+        },
+    "chat":{
+    "id":962062138,
+    "first_name":"Flyme",
+    "username":"Flymeor"
+    ,"type":"private"
+    },
+    "date":1624710967,
+    "text":"HelloWorld"
+    }}
