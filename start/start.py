@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 
 
-bot = Bot('1815758515:AAEZ8-w5ya35zYCNhMckDik2YNDbHmmihww')
+bot = Bot('')
 dp = Dispatcher(bot)
 
 # хендлер
